@@ -27,7 +27,8 @@ Here are some ideas to get you started:
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=islam-ahsanul&layout=compact)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=islam-ahsanul&repo=demo-flutter-stateManagement&show_owner=true)](https://github.com/islam-ahsanul/demo-flutter-stateManagement)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=islam-ahsanul&theme=dark)
 
 -->
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=islam-ahsanul&theme=dark)
+
