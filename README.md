@@ -20,6 +20,12 @@ Here are some ideas to get you started:
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h3>
 
-<!-- I'm Ahsanul, Student from Dhaka,Bangladesh. -->
+<!-- I'm Ahsanul, Student from Dhaka,Bangladesh.
 
-[![Ahsan's GitHub stats](https://github-readme-stats.vercel.app/api?username=islam-ahsanul)](https://github.com/islam-ahsanul)
+![Ahsan's GitHub stats](https://github-readme-stats.vercel.app/api?username=islam-ahsanul&count_private=true&show_icons=true&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=islam-ahsanul&layout=compact)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=islam-ahsanul&repo=demo-flutter-stateManagement&show_owner=true)](https://github.com/islam-ahsanul/demo-flutter-stateManagement)
+
+-->
