@@ -32,4 +32,20 @@ Here are some ideas to get you started:
 
 -->
 
+## Things I code with
+
+### 👨‍💻 Programming and markup languages
+<p>
+   <img alt="Python" src="https://img.shields.io/badge/python-ffdd54?style=flat-square&logo=python&logoColor=3670a0" />
+   <img alt="C++" src="https://img.shields.io/badge/c++-%2300599C.svg?style=flat-square&logo=c%2B%2B&logoColor=white" />
+   <img alt="Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?style=flat-square&logo=java&logoColor=white" />
+   <img alt="Dart" src="https://img.shields.io/badge/dart-%230175C2.svg?style=flat-square&logo=dart&logoColor=white" />
+   <img alt="Html" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white" />
+   <img alt="Css" src="https://img.shields.io/badge/css3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white" />
+   <img alt="Javascript" src="https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=flat-square&logo=javascript&logoColor=black" />
+   <img alt="Kotlin" src="https://img.shields.io/badge/kotlin-%237F52FF.svg?style=flat-square&logo=kotlin&logoColor=white" />
+   <img alt="Markdown" src="https://img.shields.io/badge/markdown-%23000000.svg?style=flat-square&logo=markdown&logoColor=white" />
+   <img alt="Typescript" src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat-square&logo=typescript&logoColor=white" />
+  
+</p>
 
