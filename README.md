@@ -22,4 +22,4 @@ Here are some ideas to get you started:
 
 <!-- I'm Ahsanul, Student from Dhaka,Bangladesh. -->
 
-[![Ahsan's GitHub stats](https://github-readme-stats.vercel.app/api?username=islam-ahsanul)](https://github.com/islam-ahsanul)
+<!-- [![Ahsan's GitHub stats](https://github-readme-stats.vercel.app/api?username=islam-ahsanul)](https://github.com/islam-ahsanul) -->
