@@ -20,7 +20,7 @@ Here are some ideas to get you started:
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h3>
 
-<!-- I'm Ahsanul, Student from Dhaka,Bangladesh.
+<!-- I'm Ahsanul, Student from Dhaka,Bangladesh
 
 ![Ahsan's GitHub stats](https://github-readme-stats.vercel.app/api?username=islam-ahsanul&count_private=true&show_icons=true&theme=tokyonight)
 
@@ -34,7 +34,7 @@ Here are some ideas to get you started:
 
 ## Things I code with
 
-### 👨‍💻 Programming and markup languages
+### 👨‍💻 Programming and Markup Languages
 <p>
    <img alt="Python" src="https://img.shields.io/badge/python-ffdd54?style=flat-square&logo=python&logoColor=3670a0" />
    <img alt="C++" src="https://img.shields.io/badge/c++-%2300599C.svg?style=flat-square&logo=c%2B%2B&logoColor=white" />
@@ -55,5 +55,4 @@ Here are some ideas to get you started:
    <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
 </p
 -->
-
 
