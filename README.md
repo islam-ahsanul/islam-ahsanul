@@ -12,6 +12,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=islam-ahsanul&theme=dark)
 -->
 
 
@@ -20,15 +21,8 @@ Here are some ideas to get you started:
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h3>
 
-<!-- I'm Ahsanul, Student from Dhaka,Bangladesh
-
-![Ahsan's GitHub stats](https://github-readme-stats.vercel.app/api?username=islam-ahsanul&count_private=true&show_icons=true&theme=tokyonight)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=islam-ahsanul&layout=compact)
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=islam-ahsanul&repo=demo-flutter-stateManagement&show_owner=true)](https://github.com/islam-ahsanul/demo-flutter-stateManagement)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=islam-ahsanul&theme=dark)
-
+<!--
+ I'm Ahsanul, Student from Dhaka,Bangladesh
 
 
 
@@ -54,5 +48,18 @@ Here are some ideas to get you started:
    <img alt="Flutter" src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=flat-square&logo=Flutter&logoColor=white"/>
    <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
 </p
--->
 
+<p align="left">
+    <a href="https://github.com/islam-ahsanul/demo-flutter-stateManagement"><img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=islam-ahsanul&repo=demo-flutter-stateManagement&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="demo-flutter-stateManagement"></a>
+    <a href="https://github.com/islam-ahsanul/Quick-Contacts"><img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=islam-ahsanul&repo=Quick-Contacts&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="Quick-Contacts"></a>
+    <a href="https://github.com/islam-ahsanul/rps-mobile-game"><img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=islam-ahsanul&repo=rps-mobile-game&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="rps-mobile-game"></a>
+</p>
+
+
+![Ahsan's GitHub stats](https://github-readme-stats.vercel.app/api?username=islam-ahsanul&count_private=true&show_icons=true&theme=tokyonight)
+
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=islam-ahsanul&layout=compact)
+
+
+-->
