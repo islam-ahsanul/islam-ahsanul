@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 
 ## Things I code with
 
-### 👨‍💻 Programming and Markup Languages
+## 👨‍💻 Programming and Markup Languages
 <p>
    <img alt="Python" src="https://img.shields.io/badge/python-ffdd54?style=flat-square&logo=python&logoColor=3670a0" />
    <img alt="C++" src="https://img.shields.io/badge/c++-%2300599C.svg?style=flat-square&logo=c%2B%2B&logoColor=white" />
@@ -43,23 +43,24 @@ Here are some ideas to get you started:
   
 </p>
 
-### 👨‍💻 Frameworks and libraries
+## 👨‍💻 Frameworks and libraries
 <p>
    <img alt="Flutter" src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=flat-square&logo=Flutter&logoColor=white"/>
    <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
-</p
+</p>
 
+## My Top Projects
 <p align="left">
     <a href="https://github.com/islam-ahsanul/demo-flutter-stateManagement"><img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=islam-ahsanul&repo=demo-flutter-stateManagement&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="demo-flutter-stateManagement"></a>
     <a href="https://github.com/islam-ahsanul/Quick-Contacts"><img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=islam-ahsanul&repo=Quick-Contacts&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="Quick-Contacts"></a>
     <a href="https://github.com/islam-ahsanul/rps-mobile-game"><img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=islam-ahsanul&repo=rps-mobile-game&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="rps-mobile-game"></a>
 </p>
 
+## GitHub Stats
+![Ahsan's GitHub stats](https://github-readme-stats.vercel.app/api?username=islam-ahsanul&count_private=true&show_icons=true&theme=tokyonight&hide_border=true)
 
-![Ahsan's GitHub stats](https://github-readme-stats.vercel.app/api?username=islam-ahsanul&count_private=true&show_icons=true&theme=tokyonight)
 
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=islam-ahsanul&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=islam-ahsanul&layout=compact&count_private=true&show_icons=true&theme=tokyonight&hide_border=true)
 
 
 -->
