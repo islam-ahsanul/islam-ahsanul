@@ -104,7 +104,7 @@ Here are some ideas to get you started:
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=islam-ahsanul&layout=compact&count_private=true&show_icons=true&theme=tokyonight&hide_border=true&title_color=80ffaa&text_color=FFFFFF&border_radius=15)
 
 
-![Ahsan's github activity graph](https://activity-graph.herokuapp.com/graph?username=islam-ahsanul&theme=react-dark&hide_border=true&color=51566c&line=80ffaa)
+![Ahsan's github activity graph](https://activity-graph.herokuapp.com/graph?username=islam-ahsanul&theme=react-dark&hide_border=true&color=51566c&line=80ffaa&radius=15)
 
 <br>
 <br>
