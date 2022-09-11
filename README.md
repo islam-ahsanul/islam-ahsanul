@@ -24,7 +24,7 @@ Here are some ideas to get you started:
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h3>
 
-<!--
+
  I'm Ahsanul, Student from Dhaka,Bangladesh
  <br>
  <br>
@@ -116,10 +116,11 @@ Here are some ideas to get you started:
 
 <p align="center">
   <a href="https://github.com/islam-ahsanul"><img width="40px" alt="GitHub" title="GitHub" src="https://user-images.githubusercontent.com/91280897/189489872-60826823-9f3f-4a9d-acc3-8d4dee7faead.png"/></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://www.linkedin.com/"><img width="40px" alt="Linkedin" title="Linkedin" src="https://user-images.githubusercontent.com/91280897/189489365-55177022-e75f-46c8-b80d-90f7d55e6d05.png"/></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+   <a href="mailto:ahsanulislam.info@gmail.com"><img width="40px" alt="Send Email" title="Send Email" src="https://user-images.githubusercontent.com/91280897/189543886-a5fcc32c-d06d-41de-877a-bb183ab4d689.png"/></a>
   
 </p> 
 
 
-
--->
