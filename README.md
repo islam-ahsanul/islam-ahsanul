@@ -88,28 +88,29 @@ Here are some ideas to get you started:
 
 ## My Top Projects
 <p align="left">
-    <a href="https://github.com/islam-ahsanul/demo-flutter-stateManagement"><img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=islam-ahsanul&repo=demo-flutter-stateManagement&theme=react&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="demo-flutter-stateManagement"></a>
-    <a href="https://github.com/islam-ahsanul/Quick-Contacts"><img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=islam-ahsanul&repo=Quick-Contacts&theme=react&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="Quick-Contacts"></a>
-    <a href="https://github.com/islam-ahsanul/rps-mobile-game"><img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=islam-ahsanul&repo=rps-mobile-game&theme=react&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="rps-mobile-game"></a>
+    <a href="https://github.com/islam-ahsanul/demo-flutter-stateManagement"><img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=islam-ahsanul&repo=demo-flutter-stateManagement&theme=tokyonight&title_color=80ffaa&text_color=FFFFFF&hide_border=true&icon_color=ff99bb&show_icons=false" alt="demo-flutter-stateManagement"></a>
+    <a href="https://github.com/islam-ahsanul/Quick-Contacts"><img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=islam-ahsanul&repo=Quick-Contacts&theme=tokyonight&title_color=80ffaa&text_color=FFFFFF&hide_border=true&icon_color=ff99bb&show_icons=false" alt="Quick-Contacts"></a>
+    <a href="https://github.com/islam-ahsanul/rps-mobile-game"><img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=islam-ahsanul&repo=rps-mobile-game&theme=tokyonight&title_color=80ffaa&text_color=FFFFFF&hide_border=true&icon_color=ff99bb&show_icons=false" alt="rps-mobile-game"></a>
 </p>
 <br>
 
 ## GitHub Stats
-![Ahsan's GitHub stats](https://github-readme-stats.vercel.app/api?username=islam-ahsanul&count_private=true&show_icons=true&theme=tokyonight&hide_border=true)
+![Ahsan's GitHub stats](https://github-readme-stats.vercel.app/api?username=islam-ahsanul&count_private=true&show_icons=true&theme=tokyonight&hide_border=true&title_color=80ffaa&text_color=FFFFFF&icon_color=80ffaa)
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=islam-ahsanul&layout=compact&count_private=true&show_icons=true&theme=tokyonight&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=islam-ahsanul&layout=compact&count_private=true&show_icons=true&theme=tokyonight&hide_border=true&title_color=80ffaa&text_color=FFFFFF)
 
-  <h3 align="center">Where to find me</h3>
-  <hr>
-  
+<br>
+<br>
+ <h3 align="center">Where to find me</h3>
+
 <p align="center">
   <a href="https://github.com/islam-ahsanul"><img width="40px" alt="GitHub" title="GitHub" src="https://user-images.githubusercontent.com/91280897/189489872-60826823-9f3f-4a9d-acc3-8d4dee7faead.png"/></a>
   <a href="https://www.linkedin.com/"><img width="40px" alt="Linkedin" title="Linkedin" src="https://user-images.githubusercontent.com/91280897/189489365-55177022-e75f-46c8-b80d-90f7d55e6d05.png"/></a>
   
 </p> 
 
-
 -->
+
 
 
