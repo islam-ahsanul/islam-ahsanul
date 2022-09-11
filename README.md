@@ -17,8 +17,6 @@ Here are some ideas to get you started:
   ![github](https://user-images.githubusercontent.com/91280897/189488410-cc9f0d22-9187-470c-9b37-6da1323a1afc.png)
 -->
 
-
-
 <h3 align="center">
   <samp>
     Hello World
@@ -29,7 +27,7 @@ Here are some ideas to get you started:
 
 <p align="center">
   <samp>
-    I'm Ahsanul, Dedicated towards being a full-stack developer. Currently studying CS at 
+    I'm Ahsanul, Dedicated towards being a full-stack developer. Currently studying CS at  <a href="https://github.com/islam-ahsanul">BRAC University</a>.
   </samp>
 </p>
  
