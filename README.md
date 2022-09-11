@@ -20,12 +20,19 @@ Here are some ideas to get you started:
 
 
 <h3 align="center">
-  Hello 
+  <samp>
+    Hello World
+  </samp>
+  
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h3>
 
-<!--
- I'm Ahsanul, Student from Dhaka,Bangladesh
+<p align="center">
+  <samp>
+    I'm Ahsanul, Dedicated towards being a full-stack developer. Currently studying CS at [BRAC University](https://www.bracu.ac.bd/).
+  </samp>
+</p>
+ [I'm an inline-style link](https://www.google.com)
  <br>
  <br>
 
@@ -74,7 +81,7 @@ Here are some ideas to get you started:
 <br>
 
 
-#### `IDEs/Editors`
+#### `Tools`
 <p>
    <img alt="VScode" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=flat-square&logo=visual-studio-code&logoColor=white"/>
    <img alt="AndroidStudio" src="https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=flat-square&logo=android-studio&logoColor=white"/>
@@ -123,5 +130,5 @@ Here are some ideas to get you started:
   
 </p> 
 
--->
+
 
