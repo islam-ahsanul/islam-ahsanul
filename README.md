@@ -35,7 +35,7 @@ Here are some ideas to get you started:
  <br>
 
 
-## Things I code with
+## 🔆 Things I code with
 
 #### `Programming and Markup Languages`
 <p>
@@ -81,12 +81,14 @@ Here are some ideas to get you started:
 
 #### `Tools`
 <p>
+   <img alt="git" src="https://img.shields.io/badge/git-%23F05033.svg?style=flat-square&logo=git&logoColor=white"/>
    <img alt="VScode" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=flat-square&logo=visual-studio-code&logoColor=white"/>
    <img alt="AndroidStudio" src="https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=flat-square&logo=android-studio&logoColor=white"/>
-   <img alt="CLion" src="https://img.shields.io/badge/CLion-black?style=flat-square&logo=clion&logoColor=white"/>
+   <img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white"/>
+   <img alt="CLion" src="https://img.shields.io/badge/CLion-29a3a3?style=flat-square&logo=clion&logoColor=black"/>
    <img alt="IntelliJIDEA" src="https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=flat-square&logo=intellij-idea&logoColor=white"/>
    <img alt="jupyter" src="https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=flat-square&logo=jupyter&logoColor=white"/>
-   <img alt="pycharm" src="https://img.shields.io/badge/pycharm-143?style=flat-square&logo=pycharm&logoColor=black&color=black&labelColor=green"/>
+   <img alt="PyCharm" src="https://img.shields.io/badge/PyCharm-green?style=flat-square&logo=pycharm&logoColor=ace600&color=black"/>
 </p>
 
 <br>
@@ -94,7 +96,7 @@ Here are some ideas to get you started:
 <br>
 
 
-## My Top Projects
+## 🔆 My Top Projects
 <p align="left">
     <a href="https://github.com/islam-ahsanul/demo-flutter-stateManagement"><img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=islam-ahsanul&repo=demo-flutter-stateManagement&theme=tokyonight&title_color=80ffaa&text_color=FFFFFF&hide_border=true&icon_color=ff99bb&show_icons=false&border_radius=15" alt="demo-flutter-stateManagement"></a>
     <a href="https://github.com/islam-ahsanul/Quick-Contacts"><img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=islam-ahsanul&repo=Quick-Contacts&theme=tokyonight&title_color=80ffaa&text_color=FFFFFF&hide_border=true&icon_color=ff99bb&show_icons=false&border_radius=15" alt="Quick-Contacts"></a>
@@ -102,7 +104,7 @@ Here are some ideas to get you started:
 </p>
 <br>
 
-## GitHub Stats
+## 🔆 GitHub Stats
 ![Ahsan's GitHub stats](https://github-readme-stats.vercel.app/api?username=islam-ahsanul&count_private=true&show_icons=true&theme=tokyonight&hide_border=true&title_color=80ffaa&text_color=FFFFFF&icon_color=80ffaa&border_radius=15)
 
 
@@ -117,7 +119,7 @@ Here are some ideas to get you started:
 
 
 
- <h3 align="center">Where to find me</h3>
+ <h2 align="center"><samp>Reach me at</samp></h2>
 
 <p align="center">
   <a href="https://github.com/islam-ahsanul"><img width="40px" alt="GitHub" title="GitHub" src="https://user-images.githubusercontent.com/91280897/189489872-60826823-9f3f-4a9d-acc3-8d4dee7faead.png"/></a>
