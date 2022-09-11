@@ -106,7 +106,6 @@ Here are some ideas to get you started:
 
 ![Ahsan's github activity graph](https://activity-graph.herokuapp.com/graph?username=islam-ahsanul&theme=react-dark&hide_border=true&color=51566c&line=80ffaa)
 
-
 <br>
 <br>
 
