@@ -101,6 +101,8 @@ Here are some ideas to get you started:
     <a href="https://github.com/islam-ahsanul/demo-flutter-stateManagement"><img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=islam-ahsanul&repo=demo-flutter-stateManagement&theme=tokyonight&title_color=80ffaa&text_color=FFFFFF&hide_border=true&icon_color=ff99bb&show_icons=false&border_radius=15" alt="demo-flutter-stateManagement"></a>
     <a href="https://github.com/islam-ahsanul/Quick-Contacts"><img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=islam-ahsanul&repo=Quick-Contacts&theme=tokyonight&title_color=80ffaa&text_color=FFFFFF&hide_border=true&icon_color=ff99bb&show_icons=false&border_radius=15" alt="Quick-Contacts"></a>
     <a href="https://github.com/islam-ahsanul/rps-mobile-game"><img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=islam-ahsanul&repo=rps-mobile-game&theme=tokyonight&title_color=80ffaa&text_color=FFFFFF&hide_border=true&icon_color=ff99bb&show_icons=false&border_radius=15" alt="rps-mobile-game"></a>
+    <a href="https://github.com/islam-ahsanul/Bug-Ticket-Tracker"><img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=islam-ahsanul&repo=Bug-Ticket-Tracker&theme=tokyonight&title_color=80ffaa&text_color=FFFFFF&hide_border=true&icon_color=ff99bb&show_icons=false&border_radius=15" alt="Bug-Ticket-Tracker"></a>
+    <a href="https://github.com/islam-ahsanul/Friendly-Chat"><img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=islam-ahsanul&Friendly-Chat&theme=tokyonight&title_color=80ffaa&text_color=FFFFFF&hide_border=true&icon_color=ff99bb&show_icons=false&border_radius=15" alt="Friendly-Chat"></a>
 </p>
 <br>
 
