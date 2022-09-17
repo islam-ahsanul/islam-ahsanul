@@ -108,7 +108,7 @@ Here are some ideas to get you started:
 ![Ahsan's GitHub stats](https://github-readme-stats.vercel.app/api?username=islam-ahsanul&count_private=true&show_icons=true&theme=tokyonight&hide_border=true&title_color=80ffaa&text_color=FFFFFF&icon_color=80ffaa&border_radius=15)
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=islam-ahsanul&count_private=true&layout=compact&langs_count=9&hide=html&show_icons=true&theme=tokyonight&hide_border=true&title_color=80ffaa&text_color=FFFFFF&border_radius=15)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=islam-ahsanul&count_private=true&layout=compact&langs_count=9&show_icons=true&theme=tokyonight&hide_border=true&title_color=80ffaa&text_color=FFFFFF&border_radius=15)
 
 
 ![Ahsan's github activity graph](https://activity-graph.herokuapp.com/graph?username=islam-ahsanul&count_private=true&theme=react-dark&hide_border=true&color=51566c&line=80ffaa&radius=15)
