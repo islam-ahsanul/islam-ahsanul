@@ -39,16 +39,16 @@ Here are some ideas to get you started:
 
 #### `Programming and Markup Languages`
 <p>
-   <img alt="Python" src="https://img.shields.io/badge/python-ffdd54?style=flat-square&logo=python&logoColor=3670a0" />
-   <img alt="C++" src="https://img.shields.io/badge/c++-%2300599C.svg?style=flat-square&logo=c%2B%2B&logoColor=white" />
-   <img alt="Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?style=flat-square&logo=java&logoColor=white" />
-   <img alt="Dart" src="https://img.shields.io/badge/dart-%230175C2.svg?style=flat-square&logo=dart&logoColor=white" />
-   <img alt="Html" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white" />
-   <img alt="Css" src="https://img.shields.io/badge/css3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white" />
-   <img alt="Javascript" src="https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=flat-square&logo=javascript&logoColor=black" />
-   <img alt="Kotlin" src="https://img.shields.io/badge/kotlin-%237F52FF.svg?style=flat-square&logo=kotlin&logoColor=white" />
-   <img alt="Markdown" src="https://img.shields.io/badge/markdown-%23000000.svg?style=flat-square&logo=markdown&logoColor=white" />
-   <img alt="Typescript" src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat-square&logo=typescript&logoColor=white" />
+   <img alt="Python" src="https://img.shields.io/badge/python-ffe05b?style=flat&logo=python&logoColor=3670a0" />
+   <img alt="C++" src="https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white" />
+   <img alt="Java" src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white" />
+   <img alt="Dart" src="https://img.shields.io/badge/dart-%230175C2.svg?style=flat&logo=dart&logoColor=white" />
+   <img alt="Html" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white" />
+   <img alt="Css" src="https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white" />
+   <img alt="Javascript" src="https://img.shields.io/badge/javascript-e9d317.svg?style=flat&logo=javascript&logoColor=black" />
+   <img alt="Kotlin" src="https://img.shields.io/badge/kotlin-%237F52FF.svg?style=flat&logo=kotlin&logoColor=white" />
+   <img alt="Markdown" src="https://img.shields.io/badge/markdown-%23000000.svg?style=flat&logo=markdown&logoColor=white" />
+   <img alt="Typescript" src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white" />
   
 </p>
 <br>
@@ -56,39 +56,44 @@ Here are some ideas to get you started:
 
 #### `Frameworks and libraries`
 <p>
-   <img alt="Flutter" src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=flat-square&logo=Flutter&logoColor=white"/>
-   <img alt="Node" src="https://img.shields.io/badge/node.js-6DA55F?style=flat-square&logo=node.js&logoColor=white"/>
-   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
-   <img alt="MUI" src="https://img.shields.io/badge/MUI-%230081CB.svg?style=flat-square&logo=mui&logoColor=white" />
-   <img alt="Bootstrap" src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=flat-square&logo=bootstrap&logoColor=white" />
-   <img alt="Tkinter" src="https://img.shields.io/badge/Tkinter-ffdd54?style=flat-square&logo=python&logoColor=3670a0" />
-   <img alt="Express" src="https://img.shields.io/badge/express.js-%23404d59.svg?style=flat-square&logo=express&logoColor=%2361DAFB" />
-   <img alt="Jquery" src="https://img.shields.io/badge/jquery-%230769AD.svg?style=flat-square&logo=jquery&logoColor=white" />
-   <img alt="Redux" src="https://img.shields.io/badge/redux-%23593d88.svg?style=flat-square&logo=redux&logoColor=white" />
-   <img alt="NextJS" src="https://img.shields.io/badge/Next-black?style=flat-square&logo=next.js&logoColor=white" />
+   <img alt="Flutter" src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=flat&logo=Flutter&logoColor=white"/>
+   <img alt="Node" src="https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white"/>
+   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat&logo=react&logoColor=white" />
+   <img alt="MUI" src="https://img.shields.io/badge/MUI-%230081CB.svg?style=flat&logo=mui&logoColor=white" />
+   <img alt="Bootstrap" src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=flat&logo=bootstrap&logoColor=white" />
+   <img alt="Tkinter" src="https://img.shields.io/badge/Tkinter-ffdd54?style=flat&logo=python&logoColor=3670a0" />
+   <img alt="Express" src="https://img.shields.io/badge/express.js-%23404d59.svg?style=flat&logo=express&logoColor=%2361DAFB" />
+   <img alt="Jquery" src="https://img.shields.io/badge/jquery-%230769AD.svg?style=flat&logo=jquery&logoColor=white" />
+   <img alt="Redux" src="https://img.shields.io/badge/redux-%23593d88.svg?style=flat&logo=redux&logoColor=white" />
+   <img alt="NextJS" src="https://img.shields.io/badge/Next-black?style=flat&logo=next.js&logoColor=white" />
+   <img alt="TailwindCSS" src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat&logo=tailwind-css&logoColor=white" />
+
 </p>
 <br>
 
 
 #### `Databases`
 <p>
-   <img alt="MySql" src="https://img.shields.io/badge/MySql-ffcc00.svg?style=flat-square&logo=mysql&logoColor=blue"/>
-   <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat-square&logo=mongodb&logoColor=white"/>
-  <img alt="MySqlite" src="https://img.shields.io/badge/sqlite-%2307405e.svg?style=flat-square&logo=sqlite&logoColor=white"/>
+   <img alt="MySql" src="https://img.shields.io/badge/MySql-ffcc00.svg?style=flat&logo=mysql&logoColor=blue"/>
+   <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white"/>
+  <img alt="MySqlite" src="https://img.shields.io/badge/sqlite-%2307405e.svg?style=flat&logo=sqlite&logoColor=white"/>
+  <img alt="Firebase" src="https://img.shields.io/badge/Firebase-ffffff?style=flat&logo=Firebase&logoColor=ffcc2f" />
 </p>
 <br>
 
 
 #### `Tools`
 <p>
-   <img alt="git" src="https://img.shields.io/badge/git-%23F05033.svg?style=flat-square&logo=git&logoColor=white"/>
-   <img alt="VScode" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=flat-square&logo=visual-studio-code&logoColor=white"/>
-   <img alt="AndroidStudio" src="https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=flat-square&logo=android-studio&logoColor=white"/>
-   <img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white"/>
-   <img alt="CLion" src="https://img.shields.io/badge/CLion-29a3a3?style=flat-square&logo=clion&logoColor=black"/>
+   <img alt="git" src="https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white"/>
+   <img alt="VScode" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=flat&logo=visual-studio-code&logoColor=white"/>
+   <img alt="AndroidStudio" src="https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=flat&logo=android-studio&logoColor=white"/>
+   <img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white"/>
+   <img alt="CLion" src="https://img.shields.io/badge/CLion-29a3a3?style=flat&logo=clion&logoColor=black"/>
    <img alt="IntelliJIDEA" src="https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=flat-square&logo=intellij-idea&logoColor=white"/>
-   <img alt="jupyter" src="https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=flat-square&logo=jupyter&logoColor=white"/>
-   <img alt="PyCharm" src="https://img.shields.io/badge/PyCharm-green?style=flat-square&logo=pycharm&logoColor=ace600&color=black"/>
+   <img alt="jupyter" src="https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=flat&logo=jupyter&logoColor=white"/>
+   <img alt="PyCharm" src="https://img.shields.io/badge/PyCharm-green?style=flat&logo=pycharm&logoColor=ace600&color=black"/>
+  <img alt="Heruko" src="https://img.shields.io/badge/heroku-%23430098.svg?style=flat&logo=heroku&logoColor=white" />
+  <img alt="Firebase" src="https://img.shields.io/badge/Firebase-ffffff?style=flat&logo=Firebase&logoColor=ffcc2f" />
 </p>
 
 <br>
@@ -107,6 +112,7 @@ Here are some ideas to get you started:
 </p>
 <br>
 
+<!--
 ## 🔆 GitHub Stats
 ![Ahsan's GitHub stats](https://github-readme-stats.vercel.app/api?username=islam-ahsanul&count_private=true&show_icons=true&theme=tokyonight&hide_border=true&title_color=80ffaa&text_color=FFFFFF&icon_color=80ffaa&border_radius=15)
 
@@ -120,7 +126,7 @@ Here are some ideas to get you started:
 <br>
 
 
-
+-->
 
  <h2 align="center"><samp>Reach me at</samp></h2>
 
