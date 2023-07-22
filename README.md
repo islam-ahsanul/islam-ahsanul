@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 
 <p align="center">
   <samp>
-    I'm Ahsanul Islam, Dedicated towards being a full-stack developer. Currently studying CS at  <a href="https://www.bracu.ac.bd/">BRAC University</a>
+    I'm Ahsanul Islam, Dedicated towards being a full-stack developer. Currently studying CS at  <a href="https://www.bracu.ac.bd/">BRAC University</a>.
   </samp>
 </p>
  
