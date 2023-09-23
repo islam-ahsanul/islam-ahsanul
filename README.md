@@ -39,16 +39,16 @@ Here are some ideas to get you started:
 
 #### `Programming and Markup Languages`
 <p>
+   <img alt="Javascript" src="https://img.shields.io/badge/javascript-e9d317.svg?style=flat&logo=javascript&logoColor=black" />
+   <img alt="Typescript" src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white" />
    <img alt="Python" src="https://img.shields.io/badge/python-ffe05b?style=flat&logo=python&logoColor=3670a0" />
-   <img alt="C++" src="https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white" />
    <img alt="Java" src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white" />
+   <img alt="C++" src="https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white" />
    <img alt="Dart" src="https://img.shields.io/badge/dart-%230175C2.svg?style=flat&logo=dart&logoColor=white" />
    <img alt="Html" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white" />
    <img alt="Css" src="https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white" />
-   <img alt="Javascript" src="https://img.shields.io/badge/javascript-e9d317.svg?style=flat&logo=javascript&logoColor=black" />
    <img alt="Kotlin" src="https://img.shields.io/badge/kotlin-%237F52FF.svg?style=flat&logo=kotlin&logoColor=white" />
    <img alt="Markdown" src="https://img.shields.io/badge/markdown-%23000000.svg?style=flat&logo=markdown&logoColor=white" />
-   <img alt="Typescript" src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white" />
   
 </p>
 <br>
@@ -56,17 +56,18 @@ Here are some ideas to get you started:
 
 #### `Frameworks and libraries`
 <p>
-   <img alt="Flutter" src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=flat&logo=Flutter&logoColor=white"/>
-   <img alt="Node" src="https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white"/>
+   <img alt="NextJS" src="https://img.shields.io/badge/Next-black?style=flat&logo=next.js&logoColor=white" />
    <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat&logo=react&logoColor=white" />
+   <img alt="Node" src="https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white"/>
+   <img alt="Flutter" src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=flat&logo=Flutter&logoColor=white"/>
+   <img alt="TailwindCSS" src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat&logo=tailwind-css&logoColor=white" />
    <img alt="MUI" src="https://img.shields.io/badge/MUI-%230081CB.svg?style=flat&logo=mui&logoColor=white" />
    <img alt="Bootstrap" src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=flat&logo=bootstrap&logoColor=white" />
    <img alt="Tkinter" src="https://img.shields.io/badge/Tkinter-ffdd54?style=flat&logo=python&logoColor=3670a0" />
    <img alt="Express" src="https://img.shields.io/badge/express.js-%23404d59.svg?style=flat&logo=express&logoColor=%2361DAFB" />
    <img alt="Jquery" src="https://img.shields.io/badge/jquery-%230769AD.svg?style=flat&logo=jquery&logoColor=white" />
    <img alt="Redux" src="https://img.shields.io/badge/redux-%23593d88.svg?style=flat&logo=redux&logoColor=white" />
-   <img alt="NextJS" src="https://img.shields.io/badge/Next-black?style=flat&logo=next.js&logoColor=white" />
-   <img alt="TailwindCSS" src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat&logo=tailwind-css&logoColor=white" />
+   <img alt="Redux" src="https://img.shields.io/badge/spring-%236DB33F.svg?style=flat&logo=spring&logoColor=white" />
 
 </p>
 <br>
