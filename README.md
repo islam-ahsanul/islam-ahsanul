@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=islam-ahsanul&theme=dark)
 
   ![github](https://user-images.githubusercontent.com/91280897/189488410-cc9f0d22-9187-470c-9b37-6da1323a1afc.png)
+  Dedicated towards being a full-stack developer.
 -->
 
 <h3 align="center">
@@ -27,7 +28,7 @@ Here are some ideas to get you started:
 
 <p align="center">
   <samp>
-    I'm Ahsanul Islam, Dedicated towards being a full-stack developer. Currently working for  <a href="https://www.ascendai.site/">Ascend AI</a> as SWE. Studied CS at BRAC University.
+    I'm Ahsan, Currently working for  <a href="https://www.ascendai.site/">Ascend AI</a> as SWE. Studied CS at BRAC University.
   </samp>
 </p>
  
