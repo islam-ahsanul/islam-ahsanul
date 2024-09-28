@@ -139,7 +139,7 @@ Here are some ideas to get you started:
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://www.linkedin.com/in/islam-ahsanul/"><img width="40px" alt="Linkedin" title="Linkedin" src="https://user-images.githubusercontent.com/91280897/189489365-55177022-e75f-46c8-b80d-90f7d55e6d05.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-   <a href="mailto:ahsanulislam.info@gmail.com"><img width="40px" alt="Send Email" title="Send Email" src="https://user-images.githubusercontent.com/91280897/189543886-a5fcc32c-d06d-41de-877a-bb183ab4d689.png"/></a>
+<!--    <a href="mailto:ahsanulislam.info@gmail.com"><img width="40px" alt="Send Email" title="Send Email" src="https://user-images.githubusercontent.com/91280897/189543886-a5fcc32c-d06d-41de-877a-bb183ab4d689.png"/></a> -->
   
 </p> 
 
